@@ -9,7 +9,7 @@ env:
   BUILD_ID: ${{ github.run_number }}
   DOCKER_REPO: wldn7601/stswebjpa
   STAGING_HOST: 61.109.237.240
-  SUB_NAME:gitAction
+  SUB_NAME: gitAction
 
 jobs:
   build-deploy:
